@@ -6,7 +6,6 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Simulate initial data load
     setTimeout(() => setLoading(false), 1000);
   }, []);
 

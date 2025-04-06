@@ -6,11 +6,15 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.31",
     "tailwindcss": "^2.2.19",
-    "serve": "^14.2.1"
+    "vite": "^5.2.0"
   },
   "scripts": {
-    "start": "serve -s .",
-    "build": "echo 'Build step can be added with a bundler like Vite or Webpack'"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
