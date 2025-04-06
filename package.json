@@ -1,12 +1,16 @@
 {
-    "name": "trendpulse",
-    "version": "1.0.0",
-    "dependencies": {
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0",
-      "tailwindcss": "^2.2.19"
-    },
-    "scripts": {
-      "start": "npx serve -s ."
-    }
+  "name": "trendpulse",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.2.19",
+    "serve": "^14.2.1"
+  },
+  "scripts": {
+    "start": "serve -s .",
+    "build": "echo 'Build step can be added with a bundler like Vite or Webpack'"
   }
+}
