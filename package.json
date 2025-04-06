@@ -1,0 +1,12 @@
+{
+    "name": "trendpulse",
+    "version": "1.0.0",
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "tailwindcss": "^2.2.19"
+    },
+    "scripts": {
+      "start": "npx serve -s ."
+    }
+  }
