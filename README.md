@@ -1,6 +1,6 @@
 # hype-o-thesis 🚀
 ---
-** Project Members: **
+## Project Members:
 1. Akshat Chhatriwala
 2. Ishita Akolkar
 3. Dhruv Joshi
