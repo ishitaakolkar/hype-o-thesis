@@ -1,8 +1,17 @@
-# hype-o-thesis 🚀  
+# hype-o-thesis 🚀
+---
+** Project Members: **
+1. Akshat Chhatriwala
+2. Ishita Akolkar
+3. Dhruv Joshi
+4. Parth Hindiya
+---
 **A Web Stack Powered by Machine Learning and NLP to Track & Predict Social Media Trends**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![GitHub repo](https://img.shields.io/badge/Repo-Link-blue?logo=github)](https://github.com/ishitaakolkar/hype-o-thesis)
+
+---
 
 ## 🌐 Overview
 
