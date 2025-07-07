@@ -1,7 +1,7 @@
 # hype-o-thesis 🚀
 **A Web Stack Powered by Machine Learning and NLP to Track & Predict Social Media Trends**
 ---
-## Project Members:
+## 🪼 Project Members:
 1. Akshat Chhatriwala
 2. Ishita Akolkar
 3. Dhruv Joshi
