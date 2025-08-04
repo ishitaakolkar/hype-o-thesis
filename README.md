@@ -8,7 +8,7 @@
 4. Parth Hindiya
 ---
 
-## 🌐 Overview
+## Overview
 
 **hype-o-thesis** is a full-stack web application that leverages **Machine Learning (ML)** and **Natural Language Processing (NLP)** to monitor real-time social media conversations and predict emerging trends. The project analyzes data from platforms like Twitter and Reddit to provide insights into what’s gaining momentum online — from memes and music to movements and breaking news.
 
@@ -16,11 +16,11 @@
 
 ## 📊 Key Features
 
-- 🔍 **Real-Time Data Scraping** from popular social media platforms.
-- 🧠 **NLP-based Sentiment & Trend Analysis** using transformer models.
-- 📈 **Trend Prediction Engine** powered by time series forecasting & ML classifiers.
-- 💬 **Interactive Web Dashboard** for visualizing trending keywords, sentiment distribution, and predictions.
-- 🛠️ **Scalable Web Stack** with modular architecture.
+- 1. **Real-Time Data Scraping** from popular social media platforms.
+- 2. **NLP-based Sentiment & Trend Analysis** using transformer models.
+- 3. **Trend Prediction Engine** powered by time series forecasting & ML classifiers.
+- 4. **Interactive Web Dashboard** for visualizing trending keywords, sentiment distribution, and predictions.
+- 5. **Scalable Web Stack** with modular architecture.
 
 ---
 
